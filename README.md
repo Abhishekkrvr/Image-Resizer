@@ -2,6 +2,10 @@
 
 A simple and fast web-based image resizer that allows users to resize images directly in the browser without uploading them to a server.
 
+## Live Demo
+
+### 🚀 [Try Image Resizer](https://real-image-resizer.vercel.app)
+
 ## ✨ Features
 
 - 🖼️ Resize images easily
