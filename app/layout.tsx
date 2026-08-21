@@ -74,11 +74,6 @@ export const metadata: Metadata = {
     description:
       "Make photos, signatures and documents upload-ready for Indian exams and applications.",
   },
-
-  icons: {
-    icon: "/favicon.ico",
-    apple: "/apple-touch-icon.png",
-  },
 };
 
 export const viewport: Viewport = {
