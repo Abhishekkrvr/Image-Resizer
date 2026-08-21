@@ -1,8 +1,0 @@
-{
-  "lib/compress.ts -> heic2any": {
-    "id": "lib/compress.ts -> heic2any",
-    "files": [
-      "static/chunks/_app-pages-browser_node_modules_heic2any_dist_heic2any_js.js"
-    ]
-  }
-}
